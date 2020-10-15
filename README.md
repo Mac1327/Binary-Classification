@@ -1,4 +1,4 @@
-# Binary Classification of Survival Predictions
+# Binary Classification: Survival Predictions
 Aim of this project was to build models to make predictions on the survival for the titanic data set from Kaggle competitions. Models were created, tuned then combed in ensembles. The hard-voting ensemble classifier made the best predictions in the final test submission (0.79186) reaching the top 8% on the Kaggle leader board. 
  
 |   |                        | Final Test Score |
